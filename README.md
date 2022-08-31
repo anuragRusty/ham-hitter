@@ -1,4 +1,4 @@
-Simple Click based web game.
+<h1>Simple Click based web game. </h1>
 <p>
 <b>$ npm i </b> <br>
 <b>$ npm run dev </b>
